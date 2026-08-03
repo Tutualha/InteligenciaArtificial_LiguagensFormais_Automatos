@@ -1,0 +1,2 @@
+# InteligenciaArtificial_LiguagensFormais_Automatos
+Atividades praticas da disciplica Inteligencia Artificial Liguagens Formais Automatos
