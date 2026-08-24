@@ -678,10 +678,15 @@ Gere:
 ```text
 aaab
 ```
+S => aS => aaS => aaaS => aaab
 
 ### b)
 
 Gere outras duas palavras.
+
+<h4> S => aSb => aaSbb => aaaSbbb => aaaεbbb => aaabbb
+
+S => aS => aaS => aaaS => aaaaS => aaaaab
 
 ### c)
 
